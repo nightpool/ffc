@@ -4,7 +4,7 @@ Theme URI: http://www.firstfriendschildcare.org
 Description: Theme for First Friends Childcare based on TwentyTen theme.
 Author: Artefact Design
 Version: 1.0
-Tags: 
+Tags:
 */
 
 
@@ -106,11 +106,11 @@ body {
 }
 
 @media screen and (min-width:300px) {
-	
+
 	.fivecol {
 		width: 100% !important;
 	}
-	
+
 	#header {
 	padding: 0px 0 0 0;
 	background: white; /* For browsers that do not support gradients */
@@ -123,11 +123,11 @@ min-height:115px;
 display:block;
 
 }
-	
+
 	}
-	
+
 		@media screen and (min-width:600px) {
-			
+
 	#header {
 	background:url(images/headers/masthead.jpg) no-repeat top;
 
@@ -138,14 +138,14 @@ display:block;
 	}
 
 }
-	
-	
+
+
 	@media screen and (min-width:960px) {
-	
+
 	.fivecol .vc_col-sm-2 {
 		width: 20% !important;
 	}
-	
+
 	}
 
 
@@ -339,7 +339,7 @@ text-shadow: -1px -1px #18395c;
 body {
 	background: #fdfdd7 url(images/bg.jpg) no-repeat;
 background-attachment:fixed;
-background-position:center; 
+background-position:center;
 }
 body,
 input,
@@ -1502,4 +1502,46 @@ margin:0 auto;
 }
 #wrapper{
 text-align:left;
+}
+
+
+#site-title {
+    font-size: 3em;
+    padding: 1em;
+    font-family: sans-serif;
+    text-align: center;
+    height: unset;
+    background: none;
+    max-width: unset;
+    line-height: 1rem;
+}
+
+div#access {
+    background: #333;
+}
+
+div#header {
+    background: white;
+}
+
+.wpb_wrapper {
+}
+
+a.vc_general.vc_btn3 {
+    background: #333!important;
+    font-size: 20px !important;
+    font-family: sans-serif;
+    margin-top: 17px;
+}
+
+body {
+    background: white;
+}
+
+div#footer {
+    background: #333;
+}
+
+#site-title:after {
+    content: "First Friends Childcare";
 }

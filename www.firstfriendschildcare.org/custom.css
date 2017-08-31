@@ -1,0 +1,41 @@
+
+#site-title {
+    font-size: 3em;
+    padding: 1em;
+    font-family: sans-serif;
+    text-align: center;
+    height: unset;
+    background: none;
+    max-width: unset;
+    line-height: 1rem;
+}
+
+div#access {
+    background: #333;
+}
+
+div#header {
+    background: white;
+}
+
+.wpb_wrapper {
+}
+
+a.vc_general.vc_btn3 {
+    background: #333!important;
+    font-size: 20px !important;
+    font-family: sans-serif;
+    margin-top: 17px;
+}
+
+body {
+    background: white;
+}
+
+div#footer {
+    background: #333;
+}
+
+h1#site-title:after {
+    content: "First Friends Childcare";
+}
