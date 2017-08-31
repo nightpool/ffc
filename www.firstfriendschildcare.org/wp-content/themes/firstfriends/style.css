@@ -31,7 +31,7 @@ body {
 }
 
 @font-face {
-    font-family: 'HelveticaNeueUltraLight';
+    font-family: 'sans-serif'
     src: url('fonts/helveticaneue-webfont.eot');
     src: url('fonts/helveticaneue-webfont.eot%3F') format('embedded-opentype'),
          url('fonts/helveticaneue-webfont.woff') format('woff'),
@@ -152,7 +152,7 @@ display:block;
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: normal;
-font-family: HelveticaNeueBold;
+font-family: sans-serif;
 }
 ol, ul {
 	list-style: none;
@@ -239,7 +239,7 @@ input,
 textarea,
 .page-title span,
 .pingback a.url {
-	font-family: HelveticaNeueRoman, san-serif;
+	font-family: san-serif;
 }
 h3#comments-title,
 h3#reply-title,
@@ -267,7 +267,7 @@ h3#reply-title,
 .widget-title,
 .wp-caption-text,
 input[type=submit] {
-	font-family: "Helvetica Neue", Arial, Helvetica, "Nimbus Sans L", sans-serif;
+	font-family: sans-serif;
 }
 pre {
 	font-family: "Courier 10 Pitch", Courier, monospace;
@@ -323,7 +323,7 @@ border-bottom:3px solid #937410;
 	max-width:800px;
 	text-align:center;
 	margin-top:24px;
-font-family:HelveticaNeueBold;
+font-family:sans-serif;
 text-shadow: -1px -1px #18395c;
 }
 #site-generator {
@@ -453,7 +453,7 @@ textarea {
 }
 a:link {
 	color: #0066cc;
-        font-family: 'HelveticaNeueBold';
+        font-family: 'sans-serif';
 }
 a:visited {
 	color: #743399;
